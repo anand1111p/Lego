@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,48,0" name="Colors.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="ColorReference_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Colors.behavior.ColorReference_BehaviorDescriptor" />
+    </file>
+    <file name="Color_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Colors.behavior.Color_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:e933bb89-276d-4be5-9844-da1eedbf2524(Colors.behavior)/3722277501067397391">
+    <file name="ColorReference__BehaviorDescriptor.java">
+      <node id="3722277501067397391" at="27,0,28,0" concept="6" trace="CONCEPT" />
+      <node id="3722277501067397391" at="28,0,29,0" concept="6" trace="REGISTRY" />
+      <node id="3722277501067397391" at="30,0,31,0" concept="6" trace="findColor_id1Os2kBLuoy8" />
+      <node id="3722277501067397391" at="32,0,33,0" concept="6" trace="BH_METHODS" />
+      <node id="2097561739636356813" at="37,81,38,189" concept="4" />
+      <node id="1082824515534515937" at="39,24,40,24" concept="5" />
+      <node id="2097561739636358810" at="41,5,42,37" concept="4" />
+      <node id="2097561739636390004" at="43,9,44,199" concept="5" />
+      <node id="2097561739636382065" at="45,35,46,24" concept="5" />
+      <node id="2097561739636422652" at="47,40,48,24" concept="5" />
+      <node id="2097561739636387188" at="49,38,50,24" concept="5" />
+      <node id="3722277501067397391" at="54,52,55,20" concept="8" />
+      <node id="3722277501067397391" at="59,114,60,21" concept="1" />
+      <node id="3722277501067397391" at="64,114,65,49" concept="4" />
+      <node id="3722277501067397391" at="66,26,67,56" concept="10" />
+      <node id="3722277501067397391" at="70,13,71,59" concept="5" />
+      <node id="3722277501067397391" at="72,14,73,58" concept="10" />
+      <node id="3722277501067397391" at="78,128,79,49" concept="4" />
+      <node id="3722277501067397391" at="80,26,81,56" concept="10" />
+      <node id="3722277501067397391" at="84,14,85,58" concept="10" />
+      <node id="3722277501067397391" at="91,48,92,22" concept="5" />
+      <node id="3722277501067397391" at="97,40,98,19" concept="5" />
+      <node id="3722277501067397391" at="34,0,36,0" concept="7" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="1082824515534510641" at="38,189,41,5" concept="2" />
+      <node id="3722277501067397391" at="54,0,57,0" concept="0" trace="ColorReference__BehaviorDescriptor#()V" />
+      <node id="3722277501067397391" at="65,49,68,5" concept="2" />
+      <node id="3722277501067397391" at="79,49,82,5" concept="2" />
+      <node id="3722277501067397391" at="58,0,62,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="3722277501067397391" at="82,5,86,5" concept="9" />
+      <node id="3722277501067397391" at="89,0,94,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="3722277501067397391" at="95,0,100,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="3722277501067397391" at="68,5,74,5" concept="9" />
+      <node id="2097561739636380717" at="42,37,51,5" concept="11" />
+      <node id="3722277501067397391" at="77,0,88,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="3722277501067397391" at="63,0,76,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="3722277501067397391" at="37,0,53,0" concept="7" trace="findColor_id1Os2kBLuoy8#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/awt/Color;" />
+      <scope id="3722277501067397391" at="34,63,34,63" />
+      <scope id="1082824515534510644" at="39,24,40,24" />
+      <scope id="2097561739636380718" at="43,9,44,199" />
+      <scope id="2097561739636380724" at="45,0,46,24">
+        <var name="e" id="2097561739636380728" />
+      </scope>
+      <scope id="2097561739636380727" at="45,35,46,24" />
+      <scope id="2097561739636418188" at="47,0,48,24">
+        <var name="e" id="2097561739636418189" />
+      </scope>
+      <scope id="2097561739636418191" at="47,40,48,24" />
+      <scope id="2097561739636380731" at="49,0,50,24">
+        <var name="e" id="2097561739636380735" />
+      </scope>
+      <scope id="2097561739636380734" at="49,38,50,24" />
+      <scope id="3722277501067397391" at="54,52,55,20" />
+      <scope id="3722277501067397391" at="59,114,60,21" />
+      <scope id="3722277501067397391" at="66,26,67,56" />
+      <scope id="3722277501067397391" at="70,13,71,59" />
+      <scope id="3722277501067397391" at="72,14,73,58" />
+      <scope id="3722277501067397391" at="80,26,81,56" />
+      <scope id="3722277501067397391" at="84,14,85,58" />
+      <scope id="3722277501067397391" at="91,48,92,22" />
+      <scope id="3722277501067397391" at="97,40,98,19" />
+      <scope id="3722277501067397391" at="34,0,36,0">
+        <var name="__thisNode__" id="3722277501067397391" />
+      </scope>
+      <scope id="3722277501067397391" at="54,0,57,0" />
+      <scope id="3722277501067397391" at="58,0,62,0">
+        <var name="constructor" id="3722277501067397391" />
+        <var name="node" id="3722277501067397391" />
+        <var name="parameters" id="3722277501067397391" />
+      </scope>
+      <scope id="3722277501067397391" at="89,0,94,0" />
+      <scope id="3722277501067397391" at="95,0,100,0" />
+      <scope id="3722277501067397391" at="78,128,86,5">
+        <var name="methodIndex" id="3722277501067397391" />
+      </scope>
+      <scope id="3722277501067397391" at="64,114,74,5">
+        <var name="methodIndex" id="3722277501067397391" />
+      </scope>
+      <scope id="3722277501067397391" at="77,0,88,0">
+        <var name="concept" id="3722277501067397391" />
+        <var name="method" id="3722277501067397391" />
+        <var name="parameters" id="3722277501067397391" />
+      </scope>
+      <scope id="3722277501067397391" at="63,0,76,0">
+        <var name="method" id="3722277501067397391" />
+        <var name="node" id="3722277501067397391" />
+        <var name="parameters" id="3722277501067397391" />
+      </scope>
+      <scope id="2097561739636344971" at="37,81,51,5">
+        <var name="clazz" id="2097561739636358811" />
+        <var name="color" id="2097561739636356814" />
+      </scope>
+      <scope id="3722277501067397391" at="37,0,53,0">
+        <var name="__thisNode__" id="3722277501067397391" />
+      </scope>
+      <unit id="3722277501067397391" at="26,0,101,0" name="Colors.behavior.ColorReference__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

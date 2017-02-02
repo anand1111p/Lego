@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="EditorAspectDescriptorImpl.java">
+      <unit at="15,0,51,0" name="Colors.editor.EditorAspectDescriptorImpl" />
+    </file>
+  </root>
+  <root nodeRef="r:11667f1e-f577-4980-95a1-62f1ce162bbc(Colors.editor)/3722277501067397491">
+    <file name="Color_Editor.java">
+      <node id="3722277501067397491" at="16,79,17,63" concept="5" />
+      <node id="3722277501067397491" at="19,89,20,99" concept="4" />
+      <node id="3722277501067397491" at="20,99,21,48" concept="1" />
+      <node id="3722277501067397491" at="21,48,22,28" concept="1" />
+      <node id="3722277501067397491" at="22,28,23,81" concept="1" />
+      <node id="3722277501067397491" at="23,81,24,81" concept="1" />
+      <node id="3722277501067397491" at="24,81,25,22" concept="5" />
+      <node id="3722277501067397557" at="27,88,28,91" concept="4" />
+      <node id="3722277501067397557" at="28,91,29,47" concept="1" />
+      <node id="3722277501067397557" at="29,47,30,34" concept="1" />
+      <node id="3722277501067397557" at="30,34,31,22" concept="5" />
+      <node id="3722277501067397566" at="33,88,34,82" concept="4" />
+      <node id="3722277501067397566" at="34,82,35,29" concept="1" />
+      <node id="3722277501067397566" at="35,29,36,42" concept="1" />
+      <node id="3722277501067397566" at="36,42,37,26" concept="4" />
+      <node id="3722277501067397566" at="37,26,38,58" concept="1" />
+      <node id="3722277501067397566" at="38,58,39,42" concept="1" />
+      <node id="3722277501067397566" at="39,42,40,73" concept="1" />
+      <node id="3722277501067397566" at="40,73,41,57" concept="4" />
+      <node id="3722277501067397566" at="42,35,43,82" concept="4" />
+      <node id="3722277501067397566" at="43,82,44,112" concept="5" />
+      <node id="3722277501067397566" at="45,10,46,22" concept="5" />
+      <node id="3722277501067397491" at="16,0,19,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397566" at="41,57,46,22" concept="2" />
+      <node id="3722277501067397557" at="27,0,33,0" concept="3" trace="createConstant_abwbgk_a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397491" at="19,0,27,0" concept="3" trace="createCollection_abwbgk_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397566" at="33,0,48,0" concept="3" trace="createProperty_abwbgk_b0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="3722277501067397491" at="16,79,17,63" />
+      <scope id="3722277501067397566" at="42,35,44,112">
+        <var name="manager" id="3722277501067397566" />
+      </scope>
+      <scope id="3722277501067397491" at="16,0,19,0">
+        <var name="editorContext" id="3722277501067397491" />
+        <var name="node" id="3722277501067397491" />
+      </scope>
+      <scope id="3722277501067397557" at="27,88,31,22">
+        <var name="editorCell" id="3722277501067397557" />
+      </scope>
+      <scope id="3722277501067397491" at="19,89,25,22">
+        <var name="editorCell" id="3722277501067397491" />
+      </scope>
+      <scope id="3722277501067397557" at="27,0,33,0">
+        <var name="editorContext" id="3722277501067397557" />
+        <var name="node" id="3722277501067397557" />
+      </scope>
+      <scope id="3722277501067397491" at="19,0,27,0">
+        <var name="editorContext" id="3722277501067397491" />
+        <var name="node" id="3722277501067397491" />
+      </scope>
+      <scope id="3722277501067397566" at="33,88,46,22">
+        <var name="attributeConcept" id="3722277501067397566" />
+        <var name="editorCell" id="3722277501067397566" />
+        <var name="provider" id="3722277501067397566" />
+      </scope>
+      <scope id="3722277501067397566" at="33,0,48,0">
+        <var name="editorContext" id="3722277501067397566" />
+        <var name="node" id="3722277501067397566" />
+      </scope>
+      <unit id="3722277501067397491" at="15,0,49,0" name="Colors.editor.Color_Editor" />
+    </file>
+  </root>
+  <root nodeRef="r:11667f1e-f577-4980-95a1-62f1ce162bbc(Colors.editor)/3722277501067397580">
+    <file name="ColorReference_Editor.java">
+      <node id="3722277501067397580" at="20,79,21,62" concept="5" />
+      <node id="3722277501067397580" at="23,88,24,96" concept="4" />
+      <node id="3722277501067397580" at="24,96,25,47" concept="1" />
+      <node id="3722277501067397580" at="25,47,26,28" concept="1" />
+      <node id="3722277501067397580" at="26,28,27,79" concept="1" />
+      <node id="3722277501067397580" at="27,79,28,22" concept="5" />
+      <node id="3722277501067397580" at="30,86,31,81" concept="4" />
+      <node id="3722277501067397580" at="31,81,32,31" concept="1" />
+      <node id="3722277501067397580" at="32,31,33,44" concept="1" />
+      <node id="3722277501067397580" at="33,44,34,26" concept="4" />
+      <node id="3722277501067397580" at="34,26,35,85" concept="1" />
+      <node id="3722277501067397580" at="35,85,36,58" concept="1" />
+      <node id="3722277501067397580" at="37,39,38,40" concept="1" />
+      <node id="3722277501067397580" at="38,40,39,35" concept="1" />
+      <node id="3722277501067397580" at="40,5,41,73" concept="1" />
+      <node id="3722277501067397580" at="41,73,42,57" concept="4" />
+      <node id="3722277501067397580" at="43,35,44,82" concept="4" />
+      <node id="3722277501067397580" at="44,82,45,112" concept="5" />
+      <node id="3722277501067397580" at="46,10,47,22" concept="5" />
+      <node id="3722277501067397638" at="50,32,51,14" concept="6" />
+      <node id="3722277501067397638" at="53,69,54,67" concept="5" />
+      <node id="3722277501067397638" at="56,81,57,65" concept="5" />
+      <node id="3722277501067397652" at="59,91,60,84" concept="4" />
+      <node id="3722277501067397652" at="60,84,61,31" concept="1" />
+      <node id="3722277501067397652" at="61,31,62,44" concept="1" />
+      <node id="3722277501067397652" at="62,44,63,33" concept="1" />
+      <node id="3722277501067397652" at="63,33,64,28" concept="4" />
+      <node id="3722277501067397652" at="64,28,65,60" concept="1" />
+      <node id="3722277501067397652" at="65,60,66,44" concept="1" />
+      <node id="3722277501067397652" at="66,44,67,36" concept="4" />
+      <node id="3722277501067397652" at="67,36,68,57" concept="1" />
+      <node id="3722277501067397652" at="68,57,69,42" concept="1" />
+      <node id="3722277501067397652" at="69,42,70,75" concept="1" />
+      <node id="3722277501067397652" at="70,75,71,59" concept="4" />
+      <node id="3722277501067397652" at="72,37,73,84" concept="4" />
+      <node id="3722277501067397652" at="73,84,74,114" concept="5" />
+      <node id="3722277501067397652" at="75,12,76,24" concept="5" />
+      <node id="3722277501067397580" at="20,0,23,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397638" at="50,0,53,0" concept="0" trace="_Inline_m0piq_a0a#()V" />
+      <node id="3722277501067397638" at="53,0,56,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397638" at="56,0,59,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397580" at="36,58,40,5" concept="2" />
+      <node id="3722277501067397580" at="42,57,47,22" concept="2" />
+      <node id="3722277501067397652" at="71,59,76,24" concept="2" />
+      <node id="3722277501067397580" at="23,0,30,0" concept="3" trace="createCollection_m0piq_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397580" at="30,0,49,0" concept="3" trace="createRefCell_m0piq_a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="3722277501067397652" at="59,0,78,0" concept="3" trace="createProperty_m0piq_a0a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="3722277501067397580" at="20,79,21,62" />
+      <scope id="3722277501067397638" at="50,32,51,14" />
+      <scope id="3722277501067397638" at="53,69,54,67" />
+      <scope id="3722277501067397638" at="56,81,57,65" />
+      <scope id="3722277501067397580" at="37,39,39,35" />
+      <scope id="3722277501067397580" at="43,35,45,112">
+        <var name="manager" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397652" at="72,37,74,114">
+        <var name="manager" id="3722277501067397652" />
+      </scope>
+      <scope id="3722277501067397580" at="20,0,23,0">
+        <var name="editorContext" id="3722277501067397580" />
+        <var name="node" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397638" at="50,0,53,0" />
+      <scope id="3722277501067397638" at="53,0,56,0">
+        <var name="editorContext" id="3722277501067397638" />
+      </scope>
+      <scope id="3722277501067397638" at="56,0,59,0">
+        <var name="editorContext" id="3722277501067397638" />
+        <var name="node" id="3722277501067397638" />
+      </scope>
+      <scope id="3722277501067397580" at="23,88,28,22">
+        <var name="editorCell" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397580" at="23,0,30,0">
+        <var name="editorContext" id="3722277501067397580" />
+        <var name="node" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397580" at="30,86,47,22">
+        <var name="attributeConcept" id="3722277501067397580" />
+        <var name="editorCell" id="3722277501067397580" />
+        <var name="provider" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397652" at="59,91,76,24">
+        <var name="attributeConcept" id="3722277501067397652" />
+        <var name="editorCell" id="3722277501067397652" />
+        <var name="provider" id="3722277501067397652" />
+        <var name="style" id="3722277501067397652" />
+      </scope>
+      <scope id="3722277501067397580" at="30,0,49,0">
+        <var name="editorContext" id="3722277501067397580" />
+        <var name="node" id="3722277501067397580" />
+      </scope>
+      <scope id="3722277501067397652" at="59,0,78,0">
+        <var name="editorContext" id="3722277501067397652" />
+        <var name="node" id="3722277501067397652" />
+      </scope>
+      <unit id="3722277501067397638" at="49,0,79,0" name="Colors.editor.ColorReference_Editor$_Inline_m0piq_a0a" />
+      <unit id="3722277501067397580" at="19,0,80,0" name="Colors.editor.ColorReference_Editor" />
+    </file>
+  </root>
+</debug-info>
+

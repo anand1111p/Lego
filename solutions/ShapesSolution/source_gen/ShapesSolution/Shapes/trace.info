@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root nodeRef="r:5b228012-1b7f-4ef7-aedc-375b4c65006e(ShapesSolution.Shapes)/3722277501067178147">
+    <file name="LegoMove.java">
+      <node id="3722277501067178147" at="11,0,12,0" concept="2" trace="xRobotCurrentPosition" />
+      <node id="3722277501067178147" at="12,0,13,0" concept="2" trace="yRobotCurrentPosition" />
+      <node id="3722277501067178147" at="13,0,14,0" concept="2" trace="xRobotOldPosition" />
+      <node id="3722277501067178147" at="14,0,15,0" concept="2" trace="yRobotOldPosition" />
+      <node id="3722277501067178147" at="15,0,16,0" concept="2" trace="xCordMin" />
+      <node id="3722277501067178147" at="16,0,17,0" concept="2" trace="xCordMax" />
+      <node id="3722277501067178147" at="17,0,18,0" concept="2" trace="yCordMin" />
+      <node id="3722277501067178147" at="18,0,19,0" concept="2" trace="yCordMax" />
+      <node id="3722277501067178147" at="19,0,20,0" concept="2" trace="dir" />
+      <node id="3722277501067178147" at="30,54,31,37" concept="1" />
+      <node id="3722277501067178147" at="31,37,32,0" concept="8" />
+      <node id="3722277501067178147" at="32,0,33,0" concept="8" />
+      <node id="3722277501067178147" at="33,0,34,0" concept="8" />
+      <node id="4351787621950508571" at="34,0,35,44" concept="1" />
+      <node id="3722277501067178147" at="35,44,36,0" concept="8" />
+      <node id="3722277501067178147" at="36,0,37,33" concept="1" />
+      <node id="3722277501067178147" at="37,33,38,41" concept="1" />
+      <node id="3722277501067178147" at="38,41,39,0" concept="8" />
+      <node id="3722277501067178147" at="39,0,40,23" concept="1" />
+      <node id="3722277501067178147" at="40,23,41,108" concept="1" />
+      <node id="3722277501067178147" at="41,108,42,0" concept="8" />
+      <node id="3722277501067178147" at="42,0,43,31" concept="1" />
+      <node id="3722277501067178147" at="43,31,44,0" concept="8" />
+      <node id="3722277501067178147" at="44,0,45,23" concept="1" />
+      <node id="3722277501067178147" at="45,23,46,108" concept="1" />
+      <node id="3722277501067178147" at="46,108,47,0" concept="8" />
+      <node id="3722277501067178147" at="47,0,48,31" concept="1" />
+      <node id="3722277501067178147" at="48,31,49,0" concept="8" />
+      <node id="3722277501067178147" at="49,0,50,23" concept="1" />
+      <node id="3722277501067178147" at="50,23,51,108" concept="1" />
+      <node id="3722277501067178147" at="51,108,52,0" concept="8" />
+      <node id="3722277501067178147" at="52,0,53,31" concept="1" />
+      <node id="3722277501067178147" at="53,31,54,0" concept="8" />
+      <node id="3722277501067178147" at="54,0,55,24" concept="1" />
+      <node id="3722277501067178147" at="55,24,56,108" concept="1" />
+      <node id="3722277501067178147" at="60,41,61,46" concept="1" />
+      <node id="3722277501067178147" at="61,46,62,46" concept="1" />
+      <node id="3722277501067178147" at="65,58,66,43" concept="1" />
+      <node id="3722277501067178147" at="68,59,69,67" concept="1" />
+      <node id="3722277501067178147" at="70,9,71,14" concept="0" />
+      <node id="3722277501067178147" at="73,58,74,43" concept="1" />
+      <node id="3722277501067178147" at="76,59,77,67" concept="1" />
+      <node id="3722277501067178147" at="78,9,79,14" concept="0" />
+      <node id="3722277501067178147" at="81,58,82,43" concept="1" />
+      <node id="3722277501067178147" at="84,59,85,67" concept="1" />
+      <node id="3722277501067178147" at="86,9,87,14" concept="0" />
+      <node id="3722277501067178147" at="89,58,90,43" concept="1" />
+      <node id="3722277501067178147" at="92,59,93,67" concept="1" />
+      <node id="3722277501067178147" at="94,9,95,14" concept="0" />
+      <node id="3722277501067178147" at="96,14,97,23" concept="7" />
+      <node id="3722277501067178147" at="98,5,99,0" concept="8" />
+      <node id="3722277501067178147" at="99,0,100,0" concept="8" />
+      <node id="3722277501067178147" at="100,0,101,0" concept="8" />
+      <node id="3722277501067178147" at="106,17,107,39" concept="6" />
+      <node id="3722277501067178147" at="108,16,109,40" concept="6" />
+      <node id="3722277501067178147" at="110,17,111,39" concept="6" />
+      <node id="3722277501067178147" at="112,16,113,40" concept="6" />
+      <node id="3722277501067178147" at="114,14,115,39" concept="6" />
+      <node id="3722277501067178147" at="116,5,117,0" concept="8" />
+      <node id="3722277501067178147" at="117,0,118,0" concept="8" />
+      <node id="3722277501067178147" at="122,17,123,39" concept="6" />
+      <node id="3722277501067178147" at="124,16,125,40" concept="6" />
+      <node id="3722277501067178147" at="126,17,127,39" concept="6" />
+      <node id="3722277501067178147" at="128,16,129,40" concept="6" />
+      <node id="3722277501067178147" at="130,14,131,39" concept="6" />
+      <node id="3722277501067178147" at="137,39,138,23" concept="1" />
+      <node id="3722277501067178147" at="140,40,141,24" concept="1" />
+      <node id="3722277501067178147" at="145,46,146,30" concept="1" />
+      <node id="3722277501067178147" at="146,30,147,30" concept="1" />
+      <node id="3722277501067178147" at="150,67,151,17" concept="1" />
+      <node id="3722277501067178147" at="151,17,152,17" concept="1" />
+      <node id="3722277501067178147" at="152,17,153,26" concept="1" />
+      <node id="3722277501067178147" at="153,26,154,25" concept="1" />
+      <node id="3722277501067178147" at="157,29,158,30" concept="1" />
+      <node id="3722277501067178147" at="158,30,159,59" concept="1" />
+      <node id="3722277501067178147" at="159,59,160,20" concept="1" />
+      <node id="3722277501067178147" at="160,20,161,54" concept="1" />
+      <node id="3722277501067178147" at="161,54,162,16" concept="1" />
+      <node id="3722277501067178147" at="162,16,163,26" concept="1" />
+      <node id="3722277501067178147" at="163,26,164,34" concept="1" />
+      <node id="3722277501067178147" at="167,42,168,37" concept="5" />
+      <node id="3722277501067178147" at="168,37,169,24" concept="1" />
+      <node id="3722277501067178147" at="64,16,67,9" concept="3" />
+      <node id="3722277501067178147" at="67,9,70,9" concept="3" />
+      <node id="3722277501067178147" at="72,17,75,9" concept="3" />
+      <node id="3722277501067178147" at="75,9,78,9" concept="3" />
+      <node id="3722277501067178147" at="80,16,83,9" concept="3" />
+      <node id="3722277501067178147" at="83,9,86,9" concept="3" />
+      <node id="3722277501067178147" at="88,17,91,9" concept="3" />
+      <node id="3722277501067178147" at="91,9,94,9" concept="3" />
+      <node id="3722277501067178147" at="136,53,139,5" concept="3" />
+      <node id="3722277501067178147" at="139,5,142,5" concept="3" />
+      <node id="3722277501067178147" at="145,0,149,0" concept="4" trace="setStartingPoint#(II)V" />
+      <node id="3722277501067178147" at="167,0,171,0" concept="9" trace="main#([Ljava/lang/String;)V" />
+      <node id="3722277501067178147" at="150,0,156,0" concept="4" trace="setRobotBounds#(IIII)V" />
+      <node id="3722277501067178147" at="136,0,144,0" concept="4" trace="changeDirection#(Ljava/lang/String;)V" />
+      <node id="3722277501067178147" at="157,0,166,0" concept="4" trace="initialize#()V" />
+      <node id="3722277501067178147" at="104,45,116,5" concept="10" />
+      <node id="3722277501067178147" at="120,46,132,5" concept="10" />
+      <node id="3722277501067178147" at="120,0,134,0" concept="4" trace="turnRight#()LShapesSolution/Shapes/LegoMove/Direction;" />
+      <node id="3722277501067178147" at="104,0,120,0" concept="4" trace="turnLeft#()LShapesSolution/Shapes/LegoMove/Direction;" />
+      <node id="3722277501067178147" at="29,0,58,0" concept="4" trace="paintComponent#(Ljava/awt/Graphics;)V" />
+      <node id="3722277501067178147" at="28,0,59,0" concept="2" trace="panel" />
+      <node id="3722277501067178147" at="62,46,98,5" concept="10" />
+      <node id="3722277501067178147" at="60,0,103,0" concept="4" trace="moveForward#(I)V" />
+      <scope id="3722277501067178147" at="65,58,66,43" />
+      <scope id="3722277501067178147" at="68,59,69,67" />
+      <scope id="3722277501067178147" at="73,58,74,43" />
+      <scope id="3722277501067178147" at="76,59,77,67" />
+      <scope id="3722277501067178147" at="81,58,82,43" />
+      <scope id="3722277501067178147" at="84,59,85,67" />
+      <scope id="3722277501067178147" at="89,58,90,43" />
+      <scope id="3722277501067178147" at="92,59,93,67" />
+      <scope id="3722277501067178147" at="96,14,97,23" />
+      <scope id="3722277501067178147" at="106,17,107,39" />
+      <scope id="3722277501067178147" at="108,16,109,40" />
+      <scope id="3722277501067178147" at="110,17,111,39" />
+      <scope id="3722277501067178147" at="112,16,113,40" />
+      <scope id="3722277501067178147" at="114,14,115,39" />
+      <scope id="3722277501067178147" at="122,17,123,39" />
+      <scope id="3722277501067178147" at="124,16,125,40" />
+      <scope id="3722277501067178147" at="126,17,127,39" />
+      <scope id="3722277501067178147" at="128,16,129,40" />
+      <scope id="3722277501067178147" at="130,14,131,39" />
+      <scope id="3722277501067178147" at="137,39,138,23" />
+      <scope id="3722277501067178147" at="140,40,141,24" />
+      <scope id="3722277501067178147" at="145,46,147,30" />
+      <scope id="3722277501067178147" at="167,42,169,24">
+        <var name="canvas" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="145,0,149,0">
+        <var name="x" id="3722277501067178147" />
+        <var name="y" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="150,67,154,25" />
+      <scope id="3722277501067178147" at="167,0,171,0">
+        <var name="args" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="136,53,142,5" />
+      <scope id="3722277501067178147" at="150,0,156,0">
+        <var name="length" id="3722277501067178147" />
+        <var name="width" id="3722277501067178147" />
+        <var name="x" id="3722277501067178147" />
+        <var name="y" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="64,16,71,14" />
+      <scope id="3722277501067178147" at="72,17,79,14" />
+      <scope id="3722277501067178147" at="80,16,87,14" />
+      <scope id="3722277501067178147" at="88,17,95,14" />
+      <scope id="3722277501067178147" at="157,29,164,34" />
+      <scope id="3722277501067178147" at="136,0,144,0">
+        <var name="turnDirection" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="157,0,166,0" />
+      <scope id="3722277501067178147" at="120,46,132,5" />
+      <scope id="3722277501067178147" at="104,45,118,0" />
+      <scope id="3722277501067178147" at="120,0,134,0" />
+      <scope id="3722277501067178147" at="104,0,120,0" />
+      <scope id="3722277501067178147" at="30,54,56,108" />
+      <scope id="3722277501067178147" at="29,0,58,0">
+        <var name="graphics" id="3722277501067178147" />
+      </scope>
+      <scope id="3722277501067178147" at="60,41,101,0" />
+      <scope id="3722277501067178147" at="60,0,103,0">
+        <var name="distance" id="3722277501067178147" />
+      </scope>
+      <unit id="3722277501067178147" at="21,0,27,0" name="ShapesSolution.Shapes.LegoMove$Direction" />
+      <unit id="3722277501067178147" at="28,29,58,3" name="ShapesSolution.Shapes.LegoMove$1" />
+      <unit id="3722277501067178147" at="10,0,173,0" name="ShapesSolution.Shapes.LegoMove" />
+    </file>
+  </root>
+</debug-info>
+
